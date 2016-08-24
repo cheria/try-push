@@ -1,0 +1,11 @@
+{
+  "name": "PushNotificationDemo",
+  "short_name": "PushNotificationDemo",
+  "icons": [{
+        "src": "coregano_logo.png",
+        "sizes": "192x192"
+      }],
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "950597307827"
+}
